@@ -5,12 +5,14 @@
      font-family: Arial, Helvetica, sans-serif;
 }
 
+html{
+     background-image: url('https://media.discordapp.net/attachments/921439279136247868/1034731050166919198/46C65B8F-95E7-4785-8760-5FDF515FAB14.png');
+     background-size: 50%;
+}
 
 body{
      background-color: transparent;
      -webkit-user-select: none;
-     background-image: url('https://media.discordapp.net/attachments/921439279136247868/1034731050166919198/46C65B8F-95E7-4785-8760-5FDF515FAB14.png');
-     background-size: 50%;
 }
 
 .NUIBox{
