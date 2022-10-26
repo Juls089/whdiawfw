@@ -7,7 +7,6 @@
 
 html{
      background-image: url('https://media.discordapp.net/attachments/921439279136247868/1034731050166919198/46C65B8F-95E7-4785-8760-5FDF515FAB14.png');
-     background-size: 50%;
 }
 
 body{
@@ -18,15 +17,15 @@ body{
 .NUIBox{
      position: absolute;
      top: 50%;
-     left: 50%;
+     left: 30%;
      transform: translate(-50%, -50%);
 
 
 
      color: white;
      background-color: rgba(0, 0, 0, 0.685);
-     width: 670px;
-     height: 500px;
+     width: 570px;
+     height: 400px;
 
      border-radius: 25px;
      border: 3px solid #8730FD;
@@ -50,8 +49,8 @@ body{
 }
  
 .box{
-     width: 200px;
-     height: 200px;
+     width: 100px;
+     height: 100px;
 
      border-radius: 25px;
      border: 3px solid #8730FD;
